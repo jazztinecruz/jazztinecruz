@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=jazztinecruz&label=VISITORS)
+
+
 # Hello! I'm Jazztine Cruz
 
 A Dedicated Frontend Software Engineer and Website Designer. While I have backend skills, I prefer focusing on frontend development. I'm always eager to learn and work with cutting-edge technologies, constantly seeking opportunities to contribute my skills.
