@@ -3,7 +3,7 @@
 
 # Hello! I'm Jazztine Cruz
 
-A Dedicated Frontend Software Engineer and Website Designer. While I have backend skills, I prefer focusing on frontend development. I'm always eager to learn and work with cutting-edge technologies, constantly seeking opportunities to contribute my skills.
+A dedicated Frontend Software Engineer and Website Designer. While I have backend skills, I prefer focusing on frontend development. I'm always eager to learn and work with cutting-edge technologies, constantly seeking opportunities to contribute my skills.
 
    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
    ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
