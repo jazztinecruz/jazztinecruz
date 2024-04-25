@@ -3,7 +3,7 @@
 
 # Hello! I'm Jazztine Cruz
 
-A dedicated Frontend Software Engineer and Website Designer. While I have backend skills, I prefer focusing on frontend development. I'm always eager to learn and work with cutting-edge technologies, constantly seeking opportunities to contribute my skills.
+Checkout my Portfolio! https://cruzjazztine-portfolio.vercel.app
 
    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
    ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -22,19 +22,3 @@ A dedicated Frontend Software Engineer and Website Designer. While I have backen
    ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
    ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next-auth&logoColor=white)
-
-Skills:
-
-  ![API Integration](https://img.shields.io/badge/API_Integration-ffffff?style=for-the-badge&labelColor=black&color=white)
-  ![Debugging](https://img.shields.io/badge/Debugging-ffffff?style=for-the-badge&labelColor=black&color=white)
-  ![New Features](https://img.shields.io/badge/New_Features-ffffff?style=for-the-badge&labelColor=black&color=white)
-  ![Reusable Components](https://img.shields.io/badge/Reusable_Components-ffffff?style=for-the-badge&labelColor=black&color=white)
-  ![Figma Prototypes](https://img.shields.io/badge/Figma_Prototypes-ffffff?style=for-the-badge&labelColor=black&color=white)
-  ![Figma Wireframes](https://img.shields.io/badge/Figma_Wireframes-ffffff?style=for-the-badge&labelColor=black&color=white)
-  ![Figma Designs](https://img.shields.io/badge/Figma_Designs-ffffff?style=for-the-badge&labelColor=black&color=white)
-
-Education and Awards:
-- 🎓**Bachelor of Science in Computer Science**
-- 🏅**Deans Lister**
-- 🏅**Most Outstanding Student Intern**
-- 🏅**Best Software**
