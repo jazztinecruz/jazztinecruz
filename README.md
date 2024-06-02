@@ -3,7 +3,7 @@
 
 # Hello! I'm Jazztine Cruz
 
-Checkout my Portfolio! https://jazztinecruz-portfolio.vercel.app
+Checkout my Portfolio! https://jazztinecruz-portfolio-v2.vercel.app
 
    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
    ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
