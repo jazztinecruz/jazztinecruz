@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=jazztinecruz&label=VISITORS)
 
 
-# Hello! I'm Jazztine Cruz
+# Hello! I'm Jazztine
 
 Checkout my Portfolio! https://jazztinecruz-portfolio-v2.vercel.app
 
